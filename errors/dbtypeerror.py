@@ -1,0 +1,1 @@
+class DBTypeError(Exception): pass
